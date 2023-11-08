@@ -1,4 +1,4 @@
-# SSO with Skills Sample
+# BistecTechBot
 
 Bot Framework v4 skills SSO sample.
 
